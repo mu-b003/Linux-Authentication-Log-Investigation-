@@ -39,7 +39,6 @@ Linux-Authentication-Log-Investigation/
 ├── commands/
 ├── evidence/
 ├── logs/
-└── assets/
 ```
 
 ## Skills Practiced
